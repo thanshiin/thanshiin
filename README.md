@@ -6,8 +6,8 @@ Was specialist, now Generalist
 
 I've been improving myself for years. Thriving in fast-paced environments to drive personal and professional growth.
 
-  🌍  I'm based in Bangkok, Thailand
-  ✉️  You can contact me at [thanshiin@gmail.com](mailto:thanshiin@gmail.com)
+  - 🌍  I'm based in Bangkok, Thailand
+  - ✉️  You can contact me at [thanshiin@gmail.com](mailto:thanshiin@gmail.com)
 
   ### Skills 
 <p align="left">
